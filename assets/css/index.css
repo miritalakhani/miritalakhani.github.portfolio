@@ -1,0 +1,101 @@
+* {
+  background-color: #efeee7;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  line-height: 150%;
+   }
+
+h1{
+    float: left;
+    width: 200px;
+    background-color: #4aaaa5;
+    color: #efeee7;
+    text-align: -webkit-left;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 27px;
+    padding-left: 11px;
+    margin-left: 115px;
+   }
+
+h4{
+    float: left;
+    width: 90px;
+    color: black;
+    text-align: -webkit-left;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 17px;
+    padding-left: 11px;
+    margin-left: 125px;
+   }
+
+#a {float:left; padding-left:5px; margin-left: 581px; margin-right:1px;}
+#b {float:left; padding-left:5px; padding-right:5px; margin-left: 0px;}
+#c {float:left; padding-left:5px; padding-right:5px; margin-left: 5px;}
+
+.container{
+  width : 960px;
+  margin: 0 auto;
+}
+
+#insidelefta {color:#4aaaa5; margin-bottom: 20px}
+#righta{color:#4aaaa5;}
+
+#bio-image{float:left;margin-top:10px; width:210px;height:240px;}
+#mountain-image{margin-top: 10px, width:300px;height:228px;}
+
+#logo{background-color: white;padding-top:15px; float:left; width: 650px;
+border-style:solid; border-color:gray; border-width: 0.00001px 0.00001px 0.00001px 0.00001px;
+padding-left:15px;margin-top:45px; margin-left:-185px;}
+
+#insidelefta{background-color:white;}
+#insideleftb{background-color:white; margin-top:18px;}
+#insideleftc{background-color:white;}
+#righta{background-color: white; margin-bottom:18px;margin-top:18px;text-align:center;}
+
+#socialmediaicons {float:left; width: 270px; border-style:solid; 
+border-color:gray; border-width: 0.00001px 0.00001px 0.00001px 0.00001px; padding-left:5px;
+margin-top:45px; margin-left:115px; background-color: white}
+#socialmediaicons ul li {display: inline;}
+#socialmediaicons ul {padding-top: 75 px;}
+
+
+#footer {background-color: #666666;
+    color: #efeee7;
+    clear: both;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+label {background-color: white}
+
+input {
+    background-color: white;
+    width: 590px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+form{background-color: white}
+
+#message{height: 150px;}
+
+h5{background-color: #4aaaa5;  padding-top: 15px;
+    padding-bottom: 10px; color: #efeee7; font-size:21px;
+    width:100px; text-align:center; margin-top: 20px; margin-bottom:25px;}
+
+
+
+
+
+
